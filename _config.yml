@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Shervin Iranaghideh"
 description              : &description "Prospect Graduate Student"
 url                      : https://dearshervin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
