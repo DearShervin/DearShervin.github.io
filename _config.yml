@@ -21,7 +21,7 @@ repository               : "dearshervin/dearshervin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal.png"
+  avatar           : "profile.png"
   name             : "Shervin Iranaghideh"
   pronouns         : # example: "she/her"  
   bio              : "Prospective Graduate Student"
